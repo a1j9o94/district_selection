@@ -1,0 +1,54 @@
+{
+    "53": {
+        "election_history":{
+            "2022": {
+                "democrat": {
+                    "votes": 13664,
+                    "Candidate": "Kelly Coffman"
+                },
+                "republican": {
+                    "votes": 15160,
+                    "Candidate": "Deborah Silcox"
+                }
+            },
+            "2024": {
+                "democrat": {
+                    "votes": 0,
+                    "Candidate": "Susie Greenberg"
+                },
+                "republican": {
+                    "votes": 0,
+                    "Candidate": "Deborah Silcox"
+                }
+            }
+        },
+        "demographic_pdf": "/data_extraction/source_data/district_pdfs/district_53.pdf",
+        "ballotpedia_url": "https://ballotpedia.org/Georgia_House_of_Representatives_District_53"
+    },
+    "56": {
+        "election_history": {
+            "2022": {
+                "democrat": {
+                    "votes": 16054,
+                    "Candidate": "Mesha Mainor"
+                },
+                "republican": null
+            },
+            "2024": {
+                "democrat": {
+                    "votes": 0,
+                    "Candidate": "Bryce Berry"
+                },
+                "republican": {
+                    "votes": 0,
+                    "Candidate": "Mesha Mainor"
+                }
+            }
+        },
+        "demographic_pdf": "/data_extraction/source_data/district_pdfs/district_56.pdf",
+        "ballotpedia_url": "https://ballotpedia.org/Georgia_House_of_Representatives_District_56"
+    },
+    "45": "/data_extraction/source_data/district_pdfs/district_45.pdf",
+    "48": "/data_extraction/source_data/district_pdfs/district_48.pdf",
+    "44": "/data_extraction/source_data/district_pdfs/district_44.pdf"
+}
